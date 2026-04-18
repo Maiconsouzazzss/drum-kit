@@ -1,27 +1,31 @@
 # 🥁 Drum Kit
 
-Projeto interativo de bateria desenvolvido com HTML, CSS e JavaScript.
+Projeto interativo de bateria desenvolvido com HTML, CSS e JavaScript.  
+Você pode tocar sons usando o teclado ou clicando nos botões.
 
 ---
 
 ## 🌐 Acesse o projeto
-(Adicione aqui o link do GitHub Pages depois)
+
+👉 [Clique aqui para jogar o Drum Kit](https://maiconsouzazzss.github.io/drum-kit/)
 
 ---
 
 ## 🚀 Funcionalidades
+
 - Clique nos botões para tocar sons
 - Suporte ao teclado (W A S D J K L)
-- Animação nos botões
-- Feedback visual na tela
+- Animação visual nos botões ao pressionar
+- Feedback na tela mostrando a tecla usada
 - Layout responsivo (desktop e mobile)
 
 ---
 
 ## 🛠 Tecnologias
+
 - HTML
 - CSS
-- JavaScript
+- JavaScript (DOM, eventos e lógica)
 
 ---
 
@@ -36,14 +40,15 @@ Projeto interativo de bateria desenvolvido com HTML, CSS e JavaScript.
 ---
 
 ## 📚 Aprendizados
-- Manipulação do DOM
+
+- Manipulação do DOM com JavaScript
 - Eventos de clique e teclado
-- Uso do `this` no JavaScript
-- Organização de código em funções
+- Uso de funções para organização do código
+- Feedback visual dinâmico na interface
 - Responsividade com CSS
 
 ---
 
 ## 👨‍💻 Autor
-Maicon de Souza
 
+Maicon de Souza
